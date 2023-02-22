@@ -15,8 +15,6 @@ void setup()
 
 void loop()
 {
-  swap();
-  soil_moist();
   delay(3000);
 }
 
